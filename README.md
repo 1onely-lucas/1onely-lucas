@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @1onely-lucas
+- 👋 Hey, I’m Lucas
 - 👀 I’m interested in Minecraft Clients and Java Developement
 - 🌱 I’m currently learning Java and HTML
